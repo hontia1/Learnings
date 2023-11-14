@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.PH{
+    border-width: 2px;
+    border-style: dashed;
+}
+#PH{
+    border-color: blue;
+    border-width: 3px;
+    border-style: dotted;
+    padding: 2%;
+    margin: 2%;
+}
+#RV{
+    border-width: 10px;
+    border-color: rebeccapurple;
+    border-top-style: groove;
+    border-bottom-style: dotted;
+    border-left-style: hidden;
+    border-right-style: double;
+    margin: 0.9%;
+    margin-top: 2%;
+}
+.Try{
+    border: 1px solid red;
+    border-style: double;
+    padding: 10%;
+    max-width: 25%;
+    text-align: center;
+    margin: auto;
+    border-radius: 5%;
+    box-shadow: 10px 5px 10px  cornflowerblue,10px 5px 25px yellowgreen;
+}
+body{
+    padding: 5%;
+}
+.Text{
+    margin-top: 25px;
+    word-spacing: 10px;
+    line-height: 1.5;
+    text-transform: lowercase;
+    text-align: justify;
+    font-size: large;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

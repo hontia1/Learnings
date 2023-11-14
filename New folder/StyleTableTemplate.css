@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.one{
+    background-color: aqua;
+    text-align: center;
+}
+.two{
+    background-color: beige;
+}
+.three{
+    text-align: center;
+}
+.four{
+    font-size: 50px;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
